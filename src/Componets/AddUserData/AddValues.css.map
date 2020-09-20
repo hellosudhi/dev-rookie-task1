@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,SAAS,CAAC;EACR,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,YAAY;EAC7B,UAAU,EAAE,IAAI;CAM+B;;AAJ5C,AAAD,2BAAQ,CAAC;EACP,YAAY,EAAE,IAAI;CAAG;;AACtB,AAAD,4BAAS,CAAC;EACR,KAAK,EAAE,kBAAkB;EACzB,gBAAgB,EAAE,kBAAkB;CAAG",
+    "sources": [
+        "AddValues.sass"
+    ],
+    "names": [],
+    "file": "AddValues.css"
+}
